@@ -66,3 +66,27 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- yarn add react react-dom 
+- yarn add babel-loader
+- yarn add webpack-dev-server -D
+- yarn add style-loader css-loader
+- yarn add file-loader
+- yarn add @babel/plugin-proposal-class-properties
+- yarn add prop-types
+- yarn add react-router-dom
+- yarn add styled-components
+- yarn add react-icons
+- yarn add axios
+- yarn add history
+- yarn add reactotron-react-js
+- yarn add customize-cra -d
+- yarn add react-rewired -d
+- yarn add polished
+- yarn add @rocketseat/unform
+- yarn add yup
+- yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immmer  
+- yarn add redux-persist
+- yarn add react-toastify
+- yarn add react-perfect-scrollbar
+- yarn add date-fns@next
+- yarn add date-fns-tz
