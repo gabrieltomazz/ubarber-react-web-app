@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.4691357952014" height="50" version="1.1"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Web" stroke="none" stroke-width="1" fill="#4141e8" fill-rule="evenodd" class="" opacity="1" filter="" fill-opacity="1">
+        <g id="Sign-In" fill="#4141e8" fill-rule="nonzero" opacity="1" filter="" fill-opacity="1">
+            <g id="Group-6" opacity="1" filter="" fill="#4141e8" fill-opacity="1">
+                <g id="Group-5" opacity="1" filter="" fill="#4141e8" fill-opacity="1">
+                    <g id="logo" opacity="1" filter="" fill="#4141e8" fill-opacity="1">
+                        <path d="M28.923490381338954,8.219735887849971 C28.923490381338954,5.0093329271236815 27.517645193554152,1.0855070862359955 21.01561120004945,1.0855070862359955 C17.852459527533647,1.0855070862359955 16.622344988221947,1.9772856864377422 15.040769151964044,3.0474200066798387 C13.283462667233044,4.295910046962284 10.998964237082742,5.901111527325428 6.429967376782139,5.901111527325428 C3.4425463527394364,5.901111527325428 1.3337785710622347,5.366044367204379 -0.4235279136687664,4.652621487042983 C1.5095092195353348,9.468225928132416 6.2542367283090385,15.532320409504294 18.379651472952947,15.532320409504294 C24.70595481798455,15.353964689463943 28.923490381338954,11.608494568616608 28.923490381338954,8.219735887849971 z" id="Path" opacity="1" filter="" fill="#4141e8" fill-opacity="1"/>
+                        <path d="M42.981942259186965,34.43802673378133 C36.83136956262846,34.43802673378133 33.141025944693354,32.476113813337484 31.207988811489255,30.87091233297434 C29.274951678285156,32.476113813337484 25.584608060350053,34.43802673378133 19.434035363791548,34.43802673378133 C9.76884969777104,34.43802673378133 6.429967376782139,21.418059170835825 5.5513141344166375,17.494233329948138 C4.848391540524237,17.13752188986744 4.321199595104937,16.959166169827093 3.6182770012125367,16.60245472974639 L4.496930243578037,24.806817851602464 C6.078506079835938,38.71856401474972 22.94864833325355,47.99306145684788 31.207988811489255,48.70648433700928 C38.94013734430566,47.81470573680753 55.81027959772327,38.71856401474972 57.56758608245428,24.806817851602464 L58.44623932481978,16.42409900970604 C57.919047379400475,16.780810449786742 57.21612478550807,17.13752188986744 56.513202191615676,17.494233329948138 C55.98601024619637,21.596414890876176 52.64712792520747,34.43802673378133 42.981942259186965,34.43802673378133 z" id="Path" opacity="1" filter="" fill="#4141e8" fill-opacity="1"/>
+                        <path d="M47.550939119487566,3.0474200066798387 C45.96936328322967,1.9772856864377422 44.56351809544486,1.0855070862359955 41.57609707140217,1.0855070862359955 C35.07406307789746,1.0855070862359955 33.66821789011266,5.0093329271236815 33.66821789011266,8.219735887849971 C33.66821789011266,11.608494568616608 37.88575345346706,15.353964689463943 44.036326150025566,15.353964689463943 C56.16174089466947,15.353964689463943 60.90646840344317,9.289870208092067 62.83950553664728,4.474265767002633 C61.08219905191628,5.18768864716403 58.973431270239075,5.722755807285079 56.16174089466947,5.722755807285079 C51.59274403436887,5.901111527325428 49.30824560421857,4.295910046962284 47.550939119487566,3.0474200066798387 z" id="Path" opacity="1" filter="" fill="#4141e8" fill-opacity="1" transform=""/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g><path fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" stroke-linejoin="miter" stroke-linecap="butt" stroke-dashoffset="" fill-rule="evenodd" opacity="1" marker-start="" marker-mid="" marker-end="" id="svg_1" d="M 51.17285442595755 34.61729439800956 L 25.925925925925924 32.098765432098766" style="color: rgb(0, 0, 0);"/></g><defs><filter xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="f038" inkscape:label="Button" x="0" y="0" width="1" height="1" inkscape:menu="Bevels" inkscape:menu-tooltip="Soft bevel, slightly depressed middle" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.3" in="SourceAlpha" result="result0"/>
+            <feMorphology in="SourceAlpha" radius="6.6" result="result1"/>
+            <feGaussianBlur stdDeviation="8.9" in="result1"/>
+            <feColorMatrix id="feColorMatrix2861" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0" result="result91"/>
+            <feComposite in="result0" operator="out" result="result2" in2="result91"/>
+            <feGaussianBlur stdDeviation="1.7" result="result4"/>
+            <feDiffuseLighting surfaceScale="10">
+                <feDistantLight azimuth="225" elevation="45"/>
+            </feDiffuseLighting>
+            <feBlend id="feBlend2863" in2="SourceGraphic" mode="multiply"/>
+            <feComposite in2="SourceAlpha" operator="in" result="result3"/>
+            <feSpecularLighting in="result4" surfaceScale="5" specularExponent="17.9">
+                <feDistantLight azimuth="225" elevation="45"/>
+            </feSpecularLighting>
+            <feComposite in2="result3" operator="atop"/>
+        </filter></defs></svg>
